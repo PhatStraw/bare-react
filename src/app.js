@@ -1,6 +1,6 @@
 import React from "react";
-import Bare from './components/bare.js'
-import Bare1 from './components/bare1.js'
+import Bare from './pages/bare.js'
+import Bare1 from './pages/bare1.js'
 import {
   BrowserRouter as Router,
   Switch,
